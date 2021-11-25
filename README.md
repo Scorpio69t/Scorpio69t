@@ -37,4 +37,4 @@
 &nbsp; <a href="mailto:18728163854@163.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-⭐️ From [devSouvik](https://github.com/devSouvik)
+![Metrics](https://github.com/Scorpio69t/Scorpio69t/main/github-metrics.svg)
