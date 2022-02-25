@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Flutter Application Development
+- 🔭 &nbsp; I’m currently learning Rust Language.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 💼 &nbsp; Android developer and front-end web developer.
@@ -13,7 +13,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Golang | C | Python | C++ | Linux | Bash
+- 💻 &nbsp; Golang | C | Python | C++ | Linux | Bash | Rust
 - 🌐 &nbsp; Beego | Django | Gin
 - 🛢 &nbsp; MySQL | Postgresql | SQLite
 - 🔧 &nbsp; Visual Studio | PyCharm | Visual Studio code | GoLand | Git | Clion
