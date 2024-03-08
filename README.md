@@ -32,8 +32,8 @@
 
 <p align="center">
 &nbsp; <a href="https://twitter.com/yangruitao6" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/the_caffeine__addict/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/souvik-guria-/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/%E7%91%9E%E6%B6%9B-%E6%9D%A8-88baa3141/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:18728163854@163.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
