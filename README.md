@@ -37,4 +37,4 @@
 &nbsp; <a href="mailto:18728163854@163.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-![Metrics](https://github.com/Scorpio69t/Scorpio69t/blob/main/github-metrics.svg)
+![Metrics](https://metrics.lecoq.io/Scorpio69t?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
